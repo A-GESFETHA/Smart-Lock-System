@@ -148,16 +148,14 @@ or via the Blynk app using the device widget.
 * Stable and responsive live camera streaming  
 * Reliable AI-inspired rule-based automation
 ```
-
-## Team Members
+## 👥 Team Members
 
 This project was collaboratively developed by:
 
 | Name | GitHub |
 |------|--------|
-| **A Gesfetha**    | [A-GESFETHA](https://github.com/A-GESFETHA)           |
+| **A Gesfetha** | [A-GESFETHA](https://github.com/A-GESFETHA) |
 | **Jananipriya N** | [Jananipriya1311](https://github.com/Jananipriya1311) |
-| **Manoshree K P** | [Manoshree77](https://github.com/Manoshree77)         |
-| **Medula M**      |                                                       |
-Medula M
+| **Manoshree KP** | [Manoshree77](https://github.com/Manoshree77) |
+
 **Original Repository:** [Jananipriya1311/Smart-Lock-System](https://github.com/Jananipriya1311/Smart-Lock-System)
