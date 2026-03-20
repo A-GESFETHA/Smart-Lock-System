@@ -149,7 +149,7 @@ or via the Blynk app using the device widget.
 * Reliable AI-inspired rule-based automation
 ```
 
-## 👥 Team Members
+## Team Members
 
 This project was collaboratively developed by:
 
